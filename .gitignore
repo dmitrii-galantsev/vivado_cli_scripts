@@ -1,0 +1,2 @@
+# ignore vivado garbage and generated files
+*.str *.log *.jou *.hw/ *.cache/ *.ip_user_files/ *.runs/ *.sim/ *.xpr
